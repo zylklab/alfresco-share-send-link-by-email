@@ -1,5 +1,5 @@
 # Send Link by email action
-Alfresco Share action for copying an Alfresco Link directly in your email client. The action is available in Document library and Document details view
+Alfresco Share action for copying an Alfresco Link directly in your email client. The action is available in Document library and Document details action menus.
 
 ## Packaging
 
