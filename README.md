@@ -15,4 +15,5 @@ Install it, copying the corresponding jar into $TOMCAT/shared/lib and restart Al
 
 ## Screenshots
 
-https://github.com/CesarCapillas/alfresco-share-send-link-by-email/blob/master/screenshots/
+ * https://github.com/CesarCapillas/alfresco-share-send-link-by-email/blob/master/screenshots/
+ * http://goo.gl/UZa2rV (blog post)
