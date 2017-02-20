@@ -19,5 +19,6 @@ Send Link by email action:
 
 ![Screenshot Action](screenshots/send-link-by-email-action.png)
 
+## Links
  * https://github.com/CesarCapillas/alfresco-share-send-link-by-email/blob/master/screenshots/
  * http://goo.gl/UZa2rV (blog post)
