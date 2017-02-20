@@ -5,7 +5,7 @@ Alfresco Share action for copying an Alfresco Link directly in your email client
 
 You may pack it with jar command. Go into the directory that you unzipped, or cloned via git:
 
-    $ git clone https://github.com/CesarCapillas/alfresco-share-send-link-by-email
+    $ git clone https://github.com/zylklab/alfresco-share-send-link-by-email
     $ cd alfresco-share-send-link-by-email
     $ jar -cf alfresco-share-send-link-by-email.jar *
 
