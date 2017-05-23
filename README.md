@@ -6,7 +6,7 @@ Alfresco Share action for copying an Alfresco Link directly in your email client
 You may pack it with maven. Go into the directory that you unzipped, or cloned via git:
 
     $ git clone https://github.com/zylklab/alfresco-share-send-link-by-email
-    $ cd alfresco-share-online-edition-addon
+    $ cd alfresco-share-send-link-by-email
     $ mvn clean
     $ mvn package -DskipTests=true
 
@@ -25,5 +25,5 @@ Send Link by email action:
 ![Screenshot Action](screenshots/send-link-by-email-action.png)
 
 ## Links
- * https://github.com/CesarCapillas/alfresco-share-send-link-by-email/blob/master/screenshots/
+ * https://github.com/zylklab/alfresco-share-send-link-by-email/blob/master/screenshots/
  * http://goo.gl/UZa2rV (blog post)
